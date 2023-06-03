@@ -1,0 +1,10 @@
+Element not found in the tree.
+Element not found in the tree.
+Element found in the tree.
+Element not found in the tree.
+16 вставлен в дерево
+61 вставлен в дерево
+25 вставлен в дерево
+Element not found in the tree.
+Element not found in the tree.
+Element found in the tree.
